@@ -1,0 +1,36 @@
+body {
+    background-color: #D5E1EF;
+    font-family: 'Outfit', sans-serif;
+    height: 100vh;
+}
+
+img {
+    width: 290px;
+    border-radius: 20px;
+    display: block;
+    margin:auto;
+    padding:10px
+    
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 10px;
+    width: 320px; 
+    box-shadow: -1px 10px 68px -3px rgba(0,0,0,0.37);
+    position: relative;
+    
+}
+
+.text {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    margin-top: 0px;
+}
+
+.text > p {
+    color: hsl(220, 15%, 55%);
+}
