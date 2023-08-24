@@ -1,7 +1,17 @@
 body {
+    margin: 0;
     background-color: #D5E1EF;
     font-family: 'Outfit', sans-serif;
     height: 100vh;
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    justify-content: center;
+    
+
+    
+    
+
 }
 
 img {
@@ -20,7 +30,8 @@ img {
     border-radius: 10px;
     width: 320px; 
     box-shadow: -1px 10px 68px -3px rgba(0,0,0,0.37);
-    position: relative;
+    
+
     
 }
 
